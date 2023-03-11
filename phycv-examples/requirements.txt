@@ -27,4 +27,4 @@ torch==1.13.1
 torchvision==0.14.1
 typing_extensions==4.4.0
 urllib3==1.26.14
-#using python 3.10
+#using python 3.10.4
